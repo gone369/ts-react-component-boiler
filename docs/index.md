@@ -1,3 +1,1 @@
-## MyComponent 
-
-<code src="./component-demo.tsx"></code>
+<code src="./demo.tsx"></code>
